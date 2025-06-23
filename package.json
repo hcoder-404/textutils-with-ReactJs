@@ -1,6 +1,6 @@
 {
   "homepage": "https://hcoder-404.github.io/textutils-with-ReactJs",
-  "name": "my-app",
+  "name": "textutils",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
